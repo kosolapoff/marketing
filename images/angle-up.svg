@@ -1,0 +1,23 @@
+<svg width="17" height="9" viewBox="0 0 17 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="17" height="9" fill="#E5E5E5"/>
+<g id="O marketing" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="10321" transform="translate(-712 -10152)" fill="white"/>
+<g id="Footer" clip-path="url(#clip1_0_1)">
+<rect id="bg" x="-712" y="-483" width="1440" height="552" fill="#333333"/>
+<g id="angle-up" clip-path="url(#clip2_0_1)">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M16.354 7.89597L15.647 8.60297L8.5 1.45697L1.354 8.60297L0.647 7.89597L8.5 0.0429688L16.354 7.89597Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="10321" fill="white" transform="translate(-712 -10152)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1440" height="552" fill="white" transform="translate(-712 -483)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="17" height="9" fill="white"/>
+</clipPath>
+</defs>
+</svg>
